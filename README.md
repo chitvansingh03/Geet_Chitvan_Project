@@ -11,4 +11,4 @@ In the line defining the variable "SUBSETLIST", the text file is read. Hence, it
 In the line defining the variable "CHCKLIST" , the path to the folder where the files will be saved is given. That will need to change.
 In the line defining the variable "FILENAME", the path of the files is created, which includes the path of the folder in which they have to be saved. Hence, that path needs to be modified.
 
-The text file is valid only for two days.
+Please Note: The text file is valid only for two days.
